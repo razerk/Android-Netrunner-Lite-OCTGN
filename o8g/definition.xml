@@ -17,7 +17,7 @@
       authors="Db0"
       iconurl="https://raw.github.com/db0/Android-Netrunner-OCTGN/master/ANR_box.jpg">
    <scripts>
-      <script src="Scripts/actions.py" />
+      <script src="Scripts/actionsnew.py" />
 <!--       <script src="Scripts/events.py" />
       <script src="Scripts/sounds.py" />
       <script src="Scripts/constants.py" />
@@ -185,7 +185,7 @@
       
    </table>
    <player summary="{#Clicks} Clicks/ {#Credits} Cred/ {#MU} MU/ {#Base Link} Link/ {#Agenda Points} AP/ {#Bad Publicity} BP/ {#HQ/Grip} Cards/ {#Tags} Tags">
-      <globalvariable name="ds" value="" /> 
+      <globalvariable name="faction" value="" /> 
       <globalvariable name="specialCards" value="{}" /> 
       <globalvariable name="wasNoisy" value="0" /> 
       <globalvariable name="Deck Stats" value="" /> 
