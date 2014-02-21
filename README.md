@@ -1,4 +1,4 @@
-﻿Android:Netrunner LCG plugin for OCTGN
+﻿Android:Netrunner LCG Lite plugin for OCTGN
 =========================
 Android: Netrunner is an asymmetrical cyberpunk Card Game for two players made by Fantasy Flight Games. 
 
